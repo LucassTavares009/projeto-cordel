@@ -87,12 +87,11 @@ section p {
 footer {
     background-color: rgb(38, 58, 36);
     color: white;
-    margin-top: 50px;
 }
 
 footer p {
     padding: 10px;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.2em;
+    font-size: 1.4em;
 }
